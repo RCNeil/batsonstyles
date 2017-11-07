@@ -1,0 +1,33 @@
+.return a {
+    display: inline-block;
+    padding: 12px 18px;
+    color: #eee;
+    border: 2px #eee solid;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+#order table {
+    border: 0px;
+    border-bottom: 2px #eee solid;
+}
+
+#order table td.total {
+    border-top: 2px solid #111;
+    font-weight: bold;
+    font-size: 15px;
+    border-bottom: 2px #eee solid;
+}
+
+#order table {
+    border: 0px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+input, select {
+    display: inline-block;
+    padding: 8px;
+}
