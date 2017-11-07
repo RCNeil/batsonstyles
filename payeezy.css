@@ -1,3 +1,7 @@
+body {
+    background: #121212 url(https://cdn.rawgit.com/RCNeil/batsonstyles/16afd1e9/background.jpg) center center repeat-y;
+}
+
 .return a {
     display: inline-block;
     padding: 12px 18px;
